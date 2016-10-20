@@ -1,6 +1,6 @@
 package Kata
 
-class FizzBuzz(countUpToInt: Int, startInput: Int = 1ç) {
+class FizzBuzz(countUpToInt: Int, startInput: Int = 1) {
 
     // getters
     def getStartInput: Int = startInput
